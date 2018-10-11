@@ -1,0 +1,11 @@
+{
+"ssh":{
+		"user": "root",
+		"host": "127.0.0.1",
+		"port": 22,
+		"cert": "/home/user/.ssh/id_rsa",
+		"token": "457874546:AAE8MmgL-_Fuk7WT_u8v8TG55xiwFY8Ds",
+		"proxy": "127.0.0.1:9050",
+		"mode": 2
+		}
+	}
