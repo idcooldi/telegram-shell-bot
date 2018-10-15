@@ -1,5 +1,5 @@
 ## Telegram shell Bot
-With the help of this service, you can send a bot via telegram to send commands via ssh
+With this service, you can send ssh commands via bot telegrams
 
 --------------------
 ## Start
